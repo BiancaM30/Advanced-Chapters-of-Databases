@@ -95,11 +95,3 @@ Design and implement a **data model for a chosen domain**, including:
 2. **Longest period** where the entity had a **minimum or maximum value** for a numeric attribute (e.g., price, area)
 3. **Historical changes** in the selected attribute over time
 4. **Entity state at a specific user-provided timestamp**
-
-### Tools
-- Programming language and RDBMS are **freely chosen**
-
----
-
-## 📁 Repository Structure
-
